@@ -13,6 +13,12 @@ pnpm dev
 # or
 bun dev
 ```
+![Screenshot 2024-06-13 173628](https://github.com/vyshnavveeravalli/mental-health-therapist-booking/assets/97904310/034b8945-f5de-42e2-ab52-4779e07036b6)
+
+![Screenshot 2024-06-13 173528](https://github.com/vyshnavveeravalli/mental-health-therapist-booking/assets/97904310/640167c6-d6b9-44c4-b278-aeb387cc2076)
+
+![Screenshot_13-6-2024_173553_localhost](https://github.com/vyshnavveeravalli/mental-health-therapist-booking/assets/97904310/855dafc0-6089-43f3-a826-989f9e5bf366)
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
