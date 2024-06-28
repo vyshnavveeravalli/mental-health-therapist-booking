@@ -13,17 +13,11 @@ pnpm dev
 # or
 bun dev
 ```
-![Screenshot 2024-06-28 155420](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/beef8c62-02ad-4724-8e8d-2bde876d302c)
+![Screenshot 2024-06-28 155420](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/beef8c62-02ad-4724-8e8d-2bde876d302c) ![Screenshot 2024-06-28 155431](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/0f091690-6faf-4388-89a6-455c72d0ed0d)
 
-![Screenshot 2024-06-28 155431](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/0f091690-6faf-4388-89a6-455c72d0ed0d)
+![Screenshot 2024-06-28 155439](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/c053628f-e20d-4ea9-8654-b4a08c51eac3) ![Screenshot 2024-06-28 155444](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/3b77f6ec-8812-4c5c-a15a-84e1e4d65cb0)
 
-![Screenshot 2024-06-28 155439](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/c053628f-e20d-4ea9-8654-b4a08c51eac3)
-
-![Screenshot 2024-06-28 155444](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/3b77f6ec-8812-4c5c-a15a-84e1e4d65cb0)
-
-![Screenshot 2024-06-28 155449](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/4873acb1-ef2f-46d4-9b76-89664bfc8a49)
-
-![Screenshot 2024-06-28 155454](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/3a4c5651-80ec-4570-ae0f-313586f112da)
+![Screenshot 2024-06-28 155449](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/4873acb1-ef2f-46d4-9b76-89664bfc8a49) ![Screenshot 2024-06-28 155454](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/3a4c5651-80ec-4570-ae0f-313586f112da)
 
 
 
