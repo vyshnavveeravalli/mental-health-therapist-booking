@@ -13,11 +13,19 @@ pnpm dev
 # or
 bun dev
 ```
-![Screenshot 2024-06-13 173628](https://github.com/vyshnavveeravalli/mental-health-therapist-booking/assets/97904310/034b8945-f5de-42e2-ab52-4779e07036b6)
+![Screenshot 2024-06-28 155420](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/beef8c62-02ad-4724-8e8d-2bde876d302c)
 
-![Screenshot 2024-06-13 173528](https://github.com/vyshnavveeravalli/mental-health-therapist-booking/assets/97904310/640167c6-d6b9-44c4-b278-aeb387cc2076)
+![Screenshot 2024-06-28 155431](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/0f091690-6faf-4388-89a6-455c72d0ed0d)
 
-![Screenshot_13-6-2024_173553_localhost](https://github.com/vyshnavveeravalli/mental-health-therapist-booking/assets/97904310/855dafc0-6089-43f3-a826-989f9e5bf366)
+![Screenshot 2024-06-28 155439](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/c053628f-e20d-4ea9-8654-b4a08c51eac3)
+
+![Screenshot 2024-06-28 155444](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/3b77f6ec-8812-4c5c-a15a-84e1e4d65cb0)
+
+![Screenshot 2024-06-28 155449](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/4873acb1-ef2f-46d4-9b76-89664bfc8a49)
+
+![Screenshot 2024-06-28 155454](https://github.com/vyshnavveeravalli/mental-health-therapist-booking-using-NEXT.js/assets/97904310/3a4c5651-80ec-4570-ae0f-313586f112da)
+
+
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
